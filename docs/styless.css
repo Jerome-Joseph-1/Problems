@@ -171,5 +171,5 @@ body {
 }
 
 .link:hover{
-    text-shadow: rgb(255, 255, 255) 0px 0 10px;
+    text-shadow: rgb(255, 255, 255) 0px 0 5px;
 }
